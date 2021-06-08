@@ -1,0 +1,22 @@
+body {
+  font-family: var(--main-font);
+  font-size: 18px;
+  color: var(--main-color);
+  background-color: var(--main-bg-color);
+  margin-top: 24px;
+  line-height: 1.5;
+}
+
+h1 {
+  color: var(--main-color-light);
+  font-size: clamp(40px, 8vw, 80px);
+  line-height: 1.1;
+}
+
+h2 {
+  line-height: 1.1;
+}
+
+a {
+  color: var(--type-color-brand);
+}
