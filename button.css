@@ -1,9 +1,12 @@
 .btn {
   padding: 1.25rem 1.75rem;
-  border: 1px var(--type-color-brand) solid;
+  text-decoration: none;
+  border: 2px var(--type-color-brand) solid;
+  border-radius: 20px;
 }
 
 .btn:hover{
   transition: opacity 0.4s;  
   opacity: 0.7;
 }
+

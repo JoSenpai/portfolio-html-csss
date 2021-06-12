@@ -1,0 +1,7 @@
+.border-left {
+  border-left: 2px solid;
+}
+
+.border-color-brand {
+  border-color: var(--main-color-brand);
+}
