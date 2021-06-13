@@ -1,0 +1,16 @@
+.type-header-brand {
+  line-height: 1.1;
+  font-size: 24px;
+  color: var(--main-color-brand);
+}
+.type-h1 {
+  line-height: 1.1;
+  color: var(--main-color-light);
+  font-size: clamp(40px, 8vw, 80px);
+}
+
+.type-h1-dark {
+  line-height: 1.1;
+  color: var(--main-color);
+  font-size: clamp(40px, 8vw, 80px);
+}
