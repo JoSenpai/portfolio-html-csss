@@ -19,4 +19,4 @@ Portfolio website to demonstrate skills and experience
 
 ## Authors
 
-Jonathan Yong new change
+Jonathan Yong
